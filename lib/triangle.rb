@@ -25,5 +25,5 @@ class Triangle
 end
 
 class TriangleError < StandardError
-  
+  if self = 0 
 end
